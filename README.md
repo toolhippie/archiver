@@ -1,10 +1,8 @@
 # archiver
 
-[![Docker Build](https://github.com/toolhippie/archiver/workflows/docker/badge.svg)](https://github.com/toolhippie/archiver/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/archiver/latest)](https://hub.docker.com/r/toolhippie/archiver) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/archiver)](https://hub.docker.com/r/toolhippie/archiver)
+[![Docker Build](https://github.com/toolhippie/archiver/workflows/docker/badge.svg)](https://github.com/toolhippie/archiver/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/archiver/latest)](https://hub.docker.com/r/toolhippie/archiver) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/archiver)](https://hub.docker.com/r/toolhippie/archiver) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/archiver)
 
 **All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
-
-* [GitHub](https://github.com/toolhippie/archiver)
 
 ## Versions
 
@@ -16,7 +14,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
@@ -24,6 +22,6 @@ MIT
 
 ## Copyright
 
-```
-Copyright (c) 2019 Thomas Boerger <http://www.webhippie.de>
+```console
+Copyright (c) 2020 Thomas Boerger <http://www.webhippie.de>
 ```
