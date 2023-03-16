@@ -8,5 +8,8 @@
             "groupName": "archiver packages",
             "matchDatasources": []
         }
+    ],
+    "ignoreDeps": [
+        "docker/build-push-action"
     ]
 }
